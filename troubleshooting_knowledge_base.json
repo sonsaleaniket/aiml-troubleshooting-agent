@@ -1,0 +1,54 @@
+{
+    "slow_internet": {
+        "symptom": "My internet is very slow.",
+        "solution": "Try restarting your router and checking your connection settings."
+    },
+    "app_crashing": {
+        "symptom": "The app keeps crashing on startup.",
+        "solution": "Update the app to the latest version and restart your device."
+    },
+    "printer_not_working": {
+        "symptom": "My printer won't print anything.",
+        "solution": "Check if the printer is turned on, connected to the network, and has paper and ink. Try restarting the printer and your computer."
+    },
+    "email_not_sending": {
+        "symptom": "I can't send emails from my email client.",
+        "solution": "Check your internet connection, verify your email settings (SMTP server, port, authentication), and ensure your email account credentials are correct."
+    },
+    "computer_frozen": {
+        "symptom": "My computer is completely frozen and unresponsive.",
+        "solution": "Try Ctrl+Alt+Delete to open Task Manager. If that doesn't work, hold the power button for 10 seconds to force shutdown, then restart."
+    },
+    "wifi_connection_lost": {
+        "symptom": "I keep losing my WiFi connection.",
+        "solution": "Move closer to the router, check if other devices can connect, restart your router, and update your network adapter drivers."
+    },
+    "blue_screen_error": {
+        "symptom": "I'm getting a blue screen error (BSOD) on Windows.",
+        "solution": "Note the error code, restart your computer, update drivers, run Windows Memory Diagnostic, and check for hardware issues."
+    },
+    "slow_computer": {
+        "symptom": "My computer is running very slowly.",
+        "solution": "Close unnecessary programs, check available disk space, run disk cleanup, update your antivirus, and consider adding more RAM."
+    },
+    "sound_not_working": {
+        "symptom": "I have no sound coming from my computer.",
+        "solution": "Check if speakers are plugged in and powered on, verify volume levels, update audio drivers, and check Windows sound settings."
+    },
+    "file_won't_open": {
+        "symptom": "I can't open a specific file.",
+        "solution": "Check if you have the right program installed, try opening with a different application, scan for file corruption, or restore from backup."
+    },
+    "browser_slow": {
+        "symptom": "My web browser is very slow.",
+        "solution": "Clear browser cache and cookies, disable unnecessary extensions, update the browser, close unused tabs, and restart the browser."
+    },
+    "password_forgotten": {
+        "symptom": "I forgot my password for an account.",
+        "solution": "Use the 'Forgot Password' link on the login page, check your email for reset instructions, or contact customer support if available."
+    },
+    "external_drive_not_recognized": {
+        "symptom": "My external hard drive or USB isn't showing up.",
+        "solution": "Try a different USB port, check if the drive is properly connected, update USB drivers, and check Disk Management in Windows."
+    }
+}
