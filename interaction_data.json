@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-09-30T16:42:37.820941",
+    "user_input": "My internet is very slow",
+    "matched_issue": "slow_internet",
+    "solution": "Try restarting your router",
+    "feedback": true,
+    "effectiveness_score": 0.8
+  },
+  {
+    "timestamp": "2025-09-30T16:42:37.827010",
+    "user_input": "Computer is running slowly",
+    "matched_issue": "slow_computer",
+    "solution": "Close unnecessary programs",
+    "feedback": true,
+    "effectiveness_score": 0.7
+  },
+  {
+    "timestamp": "2025-09-30T16:42:37.830174",
+    "user_input": "Browser is slow",
+    "matched_issue": "browser_slow",
+    "solution": "Clear browser cache",
+    "feedback": false,
+    "effectiveness_score": 0.3
+  }
+]

@@ -1,0 +1,480 @@
+{
+  "fix_attempts": {
+    "slow_internet": [
+      {
+        "timestamp": "2025-09-30T16:48:40.344431",
+        "fix_method": "_fix_network_settings",
+        "success": true,
+        "resolution_time": 0.006943225860595703,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.133598",
+        "fix_method": "_fix_network_settings",
+        "success": true,
+        "resolution_time": 0.014822006225585938,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.365338",
+        "fix_method": "_fix_network_settings",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.380504",
+        "fix_method": "_fix_network_settings",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:55.608814",
+        "fix_method": "_fix_network_settings",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "wifi_connection_lost": [
+      {
+        "timestamp": "2025-09-30T16:48:40.344431",
+        "fix_method": "_fix_wifi_connection",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.135199",
+        "fix_method": "_fix_wifi_connection",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.369473",
+        "fix_method": "_fix_wifi_connection",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.397122",
+        "fix_method": "_fix_wifi_connection",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "slow_computer": [
+      {
+        "timestamp": "2025-09-30T16:48:40.353543",
+        "fix_method": "_optimize_system",
+        "success": true,
+        "resolution_time": 0.00911259651184082,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.135199",
+        "fix_method": "_optimize_system",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.375377",
+        "fix_method": "_optimize_system",
+        "success": true,
+        "resolution_time": 0.000982522964477539,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.400209",
+        "fix_method": "_optimize_system",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "computer_frozen": [
+      {
+        "timestamp": "2025-09-30T16:48:40.355200",
+        "fix_method": "_fix_frozen_computer",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.145018",
+        "fix_method": "_fix_frozen_computer",
+        "success": true,
+        "resolution_time": 0.000911712646484375,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.380441",
+        "fix_method": "_fix_frozen_computer",
+        "success": true,
+        "resolution_time": 0.0003192424774169922,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.403213",
+        "fix_method": "_fix_frozen_computer",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "blue_screen_error": [
+      {
+        "timestamp": "2025-09-30T16:48:40.357206",
+        "fix_method": "_fix_blue_screen_error",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.147998",
+        "fix_method": "_fix_blue_screen_error",
+        "success": true,
+        "resolution_time": 0.0007452964782714844,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.383479",
+        "fix_method": "_fix_blue_screen_error",
+        "success": true,
+        "resolution_time": 0.0008909702301025391,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.406008",
+        "fix_method": "_fix_blue_screen_error",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "browser_slow": [
+      {
+        "timestamp": "2025-09-30T16:48:40.357206",
+        "fix_method": "_clear_browser_cache",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.150036",
+        "fix_method": "_clear_browser_cache",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.385204",
+        "fix_method": "_clear_browser_cache",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.409013",
+        "fix_method": "_clear_browser_cache",
+        "success": true,
+        "resolution_time": 0.0009965896606445312,
+        "user_rating": 0
+      }
+    ],
+    "app_crashing": [
+      {
+        "timestamp": "2025-09-30T16:48:40.357206",
+        "fix_method": "_fix_app_crashing",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.153319",
+        "fix_method": "_fix_app_crashing",
+        "success": true,
+        "resolution_time": 0.0005047321319580078,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.389636",
+        "fix_method": "_fix_app_crashing",
+        "success": true,
+        "resolution_time": 0.0007245540618896484,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.412287",
+        "fix_method": "_fix_app_crashing",
+        "success": true,
+        "resolution_time": 0.0032739639282226562,
+        "user_rating": 0
+      }
+    ],
+    "file_won't_open": [
+      {
+        "timestamp": "2025-09-30T16:48:40.363611",
+        "fix_method": "_fix_file_access",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.155336",
+        "fix_method": "_fix_file_access",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.394335",
+        "fix_method": "_fix_file_access",
+        "success": true,
+        "resolution_time": 0.0014395713806152344,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.416061",
+        "fix_method": "_fix_file_access",
+        "success": true,
+        "resolution_time": 0.00037360191345214844,
+        "user_rating": 0
+      }
+    ],
+    "printer_not_working": [
+      {
+        "timestamp": "2025-09-30T16:48:40.365912",
+        "fix_method": "_fix_printer_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.157856",
+        "fix_method": "_fix_printer_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.397873",
+        "fix_method": "_fix_printer_issues",
+        "success": true,
+        "resolution_time": 0.0010881423950195312,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.418066",
+        "fix_method": "_fix_printer_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "external_drive_not_recognized": [
+      {
+        "timestamp": "2025-09-30T16:48:40.368909",
+        "fix_method": "_fix_external_drive",
+        "success": true,
+        "resolution_time": 0.00099945068359375,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.159855",
+        "fix_method": "_fix_external_drive",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.400880",
+        "fix_method": "_fix_external_drive",
+        "success": true,
+        "resolution_time": 0.0010020732879638672,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.421064",
+        "fix_method": "_fix_external_drive",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      }
+    ],
+    "sound_not_working": [
+      {
+        "timestamp": "2025-09-30T16:48:40.370909",
+        "fix_method": "_fix_audio_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.161851",
+        "fix_method": "_fix_audio_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.405634",
+        "fix_method": "_fix_audio_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.424801",
+        "fix_method": "_fix_audio_issues",
+        "success": true,
+        "resolution_time": 0.0010013580322265625,
+        "user_rating": 0
+      }
+    ],
+    "email_not_sending": [
+      {
+        "timestamp": "2025-09-30T16:48:40.372909",
+        "fix_method": "_fix_email_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.167711",
+        "fix_method": "_fix_email_issues",
+        "success": true,
+        "resolution_time": 0.0,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.409226",
+        "fix_method": "_fix_email_issues",
+        "success": true,
+        "resolution_time": 0.0009987354278564453,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.427692",
+        "fix_method": "_fix_email_issues",
+        "success": true,
+        "resolution_time": 0.00089263916015625,
+        "user_rating": 0
+      }
+    ],
+    "password_forgotten": [
+      {
+        "timestamp": "2025-09-30T16:48:40.375272",
+        "fix_method": "_fix_password_issues",
+        "success": true,
+        "resolution_time": 0.0005447864532470703,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:49:33.170710",
+        "fix_method": "_fix_password_issues",
+        "success": true,
+        "resolution_time": 0.0009930133819580078,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:50:18.412227",
+        "fix_method": "_fix_password_issues",
+        "success": true,
+        "resolution_time": 0.0009922981262207031,
+        "user_rating": 0
+      },
+      {
+        "timestamp": "2025-09-30T16:52:43.432915",
+        "fix_method": "_fix_password_issues",
+        "success": true,
+        "resolution_time": 0.0013065338134765625,
+        "user_rating": 0
+      }
+    ],
+    "test_issue": [
+      {
+        "timestamp": "2025-09-30T16:51:26.843640",
+        "fix_method": "test_method",
+        "success": true,
+        "resolution_time": 1.5,
+        "user_rating": 8
+      },
+      {
+        "timestamp": "2025-09-30T16:51:26.843640",
+        "fix_method": "test_method",
+        "success": false,
+        "resolution_time": 2.0,
+        "user_rating": 3
+      },
+      {
+        "timestamp": "2025-09-30T16:52:05.749233",
+        "fix_method": "test_method",
+        "success": true,
+        "resolution_time": 1.5,
+        "user_rating": 8
+      },
+      {
+        "timestamp": "2025-09-30T16:52:05.749233",
+        "fix_method": "test_method",
+        "success": false,
+        "resolution_time": 2.0,
+        "user_rating": 3
+      }
+    ]
+  },
+  "success_rates": {
+    "slow_internet": 1.0,
+    "wifi_connection_lost": 1.0,
+    "slow_computer": 1.0,
+    "computer_frozen": 1.0,
+    "blue_screen_error": 1.0,
+    "browser_slow": 1.0,
+    "app_crashing": 1.0,
+    "file_won't_open": 1.0,
+    "printer_not_working": 1.0,
+    "external_drive_not_recognized": 1.0,
+    "sound_not_working": 1.0,
+    "email_not_sending": 1.0,
+    "password_forgotten": 1.0,
+    "test_issue": 0.5
+  },
+  "average_resolution_time": {
+    "slow_internet": 0.01088261604309082,
+    "wifi_connection_lost": [],
+    "slow_computer": 0.00504755973815918,
+    "computer_frozen": 0.0006154775619506836,
+    "blue_screen_error": 0.0008181333541870117,
+    "browser_slow": 0.0009965896606445312,
+    "app_crashing": 0.0015010833740234375,
+    "file_won't_open": 0.0009065866470336914,
+    "printer_not_working": 0.0010881423950195312,
+    "external_drive_not_recognized": 0.0010007619857788086,
+    "sound_not_working": 0.0010013580322265625,
+    "email_not_sending": 0.0009456872940063477,
+    "password_forgotten": 0.0009591579437255859,
+    "test_issue": 1.75
+  },
+  "user_satisfaction": {
+    "slow_internet": [],
+    "wifi_connection_lost": [],
+    "slow_computer": [],
+    "computer_frozen": [],
+    "blue_screen_error": [],
+    "browser_slow": [],
+    "app_crashing": [],
+    "file_won't_open": [],
+    "printer_not_working": [],
+    "external_drive_not_recognized": [],
+    "sound_not_working": [],
+    "email_not_sending": [],
+    "password_forgotten": [],
+    "test_issue": 5.5
+  },
+  "total_automations": 57
+}
